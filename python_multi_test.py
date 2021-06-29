@@ -1,6 +1,6 @@
 from multiprocessing import Pool
 
-print("hoge")
+print("hogehoge")
 
 def f(x):
     return x*x
